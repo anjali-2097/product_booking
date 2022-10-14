@@ -1,0 +1,60 @@
+/*================================================================================
+	Item Name: Materialize - Material Design Admin Template
+	Version: 5.0
+	Author: PIXINVENT
+	Author URL: https://themeforest.net/user/pixinvent/portfolio
+================================================================================
+
+NOTE:
+------
+PLACE HERE YOUR OWN CSS CODES AND IF NEEDED, OVERRIDE THE STYLES FROM THE OTHER STYLESHEETS.
+WE WILL RELEASE FUTURE UPDATES SO IN ORDER TO NOT OVERWRITE YOUR STYLES IT'S BETTER LIKE THIS.  */
+.main_header{
+	padding: 0px !important;
+}
+.company_name{
+	font-size: 50px !important;
+	margin-top: 0px !important;
+	margin-bottom: 0px !important;
+}
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 600px) {
+	.company_name{
+		font-size: 20px !important;
+	}
+}
+
+/* Small devices (portrait tablets and large phones, 600px and up) */
+@media only screen and (min-width: 600px) {
+	.company_name{
+		font-size: 30px !important;
+	}
+}
+
+/* Medium devices (landscape tablets, 768px and up) */
+@media only screen and (min-width: 768px) {
+	.company_name{
+		font-size: 40px !important;
+	}
+} 
+
+/* Large devices (laptops/desktops, 992px and up) */
+@media only screen and (min-width: 992px) {
+	.company_name{
+		font-size: 50px !important;
+	}
+} 
+
+/* Extra large devices (large laptops and desktops, 1200px and up) */
+@media only screen and (min-width: 1200px) {
+	.company_name{
+		font-size: 60px !important;
+	}
+}
+.invoice-item{
+	border: 1px solid #e8e8e8;
+	border-radius: 4px;
+}
+.invoice-item-filed {
+	padding: 6px !important;
+}

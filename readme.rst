@@ -1,4 +1,8 @@
 *******************
+About project
+*******************
+Created web app for product booking using CodeIgniter HMVC. Technologies used are: HTML5, CSS3, MySQL, PHP
+*******************
 What is CodeIgniter
 *******************
 
